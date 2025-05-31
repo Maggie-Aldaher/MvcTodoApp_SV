@@ -28,3 +28,4 @@ D:\السنة الرابعة\الفصل الثاني\هندسة برمجيات 2
 D:\السنة الرابعة\الفصل الثاني\هندسة برمجيات 2\عملي\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.pdb
 D:\السنة الرابعة\الفصل الثاني\هندسة برمجيات 2\عملي\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.genruntimeconfig.cache
 D:\السنة الرابعة\الفصل الثاني\هندسة برمجيات 2\عملي\MvcTodoApp_SV\obj\Debug\net8.0\ref\MvcTodoApp.dll
+D:\السنة الرابعة\الفصل الثاني\هندسة برمجيات 2\عملي\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.sourcelink.json
